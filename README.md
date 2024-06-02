@@ -3,7 +3,7 @@ ALGORITHM
 
 Import the necessary module:
 
-Import the web framework module (e.g., Express).
+Import the web framework module (ie., Express).
 
 
 Initialize the web framework:
